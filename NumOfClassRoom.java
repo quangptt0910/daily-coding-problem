@@ -19,8 +19,6 @@ class Pair {
         this.y = y;
     }
 
-    // Overriding toString method
-    // for beautiful printing of pairs
     @Override
     public String toString() {
         return "(" + x +
